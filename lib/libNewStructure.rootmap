@@ -1,0 +1,5 @@
+[ libNewStructure.so ]
+# List of selected classes
+class Event
+class Hit
+header classes.h
