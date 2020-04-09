@@ -115,7 +115,7 @@ private:
     Double_t         fMaxCharge;              //Maximum energy in the event
     Int_t            fFEB12ch;                //FEB 12 channel
     Double_t         fFEB12LeadTime;          //lead time of FEB12 trigger
-    Double_t         fFEB12HitTimeFromSpill;          //hit time from spill of FEB12
+    Double_t         fFEB12HitTimeFromSpill;  //hit time from spill of FEB12
     Int_t            fOccupancyXZ[48];        //Occupancy per layer of Z in the XZ view
     Int_t            fOccupancyZY[48];        //Occupancy per layer of Z in the ZY view
     Double_t         fdEdzXZ[48];             //Energy loss along Z in XZ plane
